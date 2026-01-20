@@ -1,0 +1,1 @@
+2026-01-17 23:06:20.364 +00:00 [INFO] plugin:SimpleAdmin Database initialized successfully.

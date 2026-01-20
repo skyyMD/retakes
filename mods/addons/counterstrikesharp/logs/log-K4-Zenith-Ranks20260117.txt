@@ -1,0 +1,6 @@
+2026-01-17 20:59:02.441 +00:00 [WARN] plugin:K4-Zenith | Ranks CS2 server guidelines are enabled, disabling fake ranks functionality.
+2026-01-17 20:59:02.459 +00:00 [INFO] plugin:K4-Zenith | Ranks To enable fake ranks, set 'FollowCS2ServerGuidelines' to false in the Core configuration (configs/core.cfg).
+2026-01-17 20:59:02.468 +00:00 [INFO] plugin:K4-Zenith | Ranks Zenith Ranks module successfully registered.
+2026-01-17 23:06:20.863 +00:00 [WARN] plugin:K4-Zenith | Ranks CS2 server guidelines are enabled, disabling fake ranks functionality.
+2026-01-17 23:06:20.881 +00:00 [INFO] plugin:K4-Zenith | Ranks To enable fake ranks, set 'FollowCS2ServerGuidelines' to false in the Core configuration (configs/core.cfg).
+2026-01-17 23:06:20.891 +00:00 [INFO] plugin:K4-Zenith | Ranks Zenith Ranks module successfully registered.

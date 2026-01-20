@@ -1,0 +1,14 @@
+2026-01-13 22:19:24.898 +00:00 [EROR] plugin:K4-Zenith | Ranks Failed to initialize Zenith API: The given key 'zenith:module-services' was not present in the dictionary.
+2026-01-13 22:19:24.914 +00:00 [INFO] plugin:K4-Zenith | Ranks Please check if Zenith is installed, configured and loaded correctly.
+2026-01-13 22:21:57.978 +00:00 [EROR] plugin:K4-Zenith | Ranks Failed to initialize Zenith API: The given key 'zenith:module-services' was not present in the dictionary.
+2026-01-13 22:21:57.996 +00:00 [INFO] plugin:K4-Zenith | Ranks Please check if Zenith is installed, configured and loaded correctly.
+2026-01-13 22:23:10.347 +00:00 [EROR] plugin:K4-Zenith | Ranks Failed to initialize Zenith API: The given key 'zenith:module-services' was not present in the dictionary.
+2026-01-13 22:23:10.364 +00:00 [INFO] plugin:K4-Zenith | Ranks Please check if Zenith is installed, configured and loaded correctly.
+2026-01-13 22:27:58.275 +00:00 [EROR] plugin:K4-Zenith | Ranks Failed to initialize Zenith API: The given key 'zenith:module-services' was not present in the dictionary.
+2026-01-13 22:27:58.293 +00:00 [INFO] plugin:K4-Zenith | Ranks Please check if Zenith is installed, configured and loaded correctly.
+2026-01-13 22:36:20.549 +00:00 [EROR] plugin:K4-Zenith | Ranks Failed to initialize Zenith API: The given key 'zenith:module-services' was not present in the dictionary.
+2026-01-13 22:36:20.567 +00:00 [INFO] plugin:K4-Zenith | Ranks Please check if Zenith is installed, configured and loaded correctly.
+2026-01-13 22:44:54.207 +00:00 [INFO] plugin:K4-Zenith | Ranks Default ranks file created.
+2026-01-13 22:44:54.316 +00:00 [WARN] plugin:K4-Zenith | Ranks CS2 server guidelines are enabled, disabling fake ranks functionality.
+2026-01-13 22:44:54.317 +00:00 [INFO] plugin:K4-Zenith | Ranks To enable fake ranks, set 'FollowCS2ServerGuidelines' to false in the Core configuration (configs/core.cfg).
+2026-01-13 22:44:54.327 +00:00 [INFO] plugin:K4-Zenith | Ranks Zenith Ranks module successfully registered.

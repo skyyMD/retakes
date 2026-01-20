@@ -1,0 +1,47 @@
+2026-01-14 17:01:27.485 +00:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-01-14 17:01:28.614 +00:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-01-14 17:01:28.625 +00:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-01-14 17:01:28.629 +00:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-01-14 17:01:28.632 +00:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-01-14 17:01:28.633 +00:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-01-14 17:01:28.635 +00:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-01-14 17:01:38.536 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith
+2026-01-14 17:01:39.561 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Core
+2026-01-14 17:01:40.036 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-CustomTags
+2026-01-14 17:01:40.038 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | CustomTags
+2026-01-14 17:01:40.546 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Ranks
+2026-01-14 17:01:40.549 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Ranks
+2026-01-14 17:01:41.024 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Stats
+2026-01-14 17:01:41.025 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Stats
+2026-01-14 17:01:41.505 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Toplists
+2026-01-14 17:01:41.506 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Toplists
+2026-01-14 17:23:09.925 +00:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-01-14 17:23:10.022 +00:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-01-14 17:23:10.031 +00:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-01-14 17:23:10.033 +00:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-01-14 17:23:10.035 +00:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-01-14 17:23:10.036 +00:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-01-14 17:23:10.037 +00:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-01-14 17:23:10.583 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith
+2026-01-14 17:23:11.379 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Core
+2026-01-14 17:23:11.404 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Ranks
+2026-01-14 17:23:11.407 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Ranks
+2026-01-14 17:23:11.428 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Stats
+2026-01-14 17:23:11.430 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Stats
+2026-01-14 17:23:11.450 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Toplists
+2026-01-14 17:23:11.452 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Toplists
+2026-01-14 17:27:02.344 +00:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2026-01-14 17:27:02.438 +00:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2026-01-14 17:27:02.447 +00:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 45 game data entries from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2026-01-14 17:27:02.450 +00:00 [INFO] (cssharp:Core) Loading Admins from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admins.json
+2026-01-14 17:27:02.452 +00:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2026-01-14 17:27:02.453 +00:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2026-01-14 17:27:02.454 +00:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/steam/cs2-dedicated/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2026-01-14 17:27:03.015 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith
+2026-01-14 17:27:03.735 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Core
+2026-01-14 17:27:03.761 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Ranks
+2026-01-14 17:27:03.764 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Ranks
+2026-01-14 17:27:03.786 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Stats
+2026-01-14 17:27:03.788 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Stats
+2026-01-14 17:27:03.810 +00:00 [INFO] (cssharp:PluginContext) Loading plugin K4-Zenith-Toplists
+2026-01-14 17:27:03.811 +00:00 [INFO] (cssharp:PluginContext) Finished loading plugin K4-Zenith | Toplists
