@@ -1,7 +1,0 @@
-2026-01-19 22:14:15.950 +00:00 [INFO] plugin:K4-Zenith | Core Module K4-Zenith requested config accessor.
-2026-01-19 22:14:16.733 +00:00 [INFO] plugin:K4-Zenith | Core No migrations to apply. Database is up to date.
-2026-01-19 22:14:20.483 +00:00 [INFO] plugin:K4-Zenith | Core Module K4-Zenith-Ranks requested config accessor.
-2026-01-19 22:14:20.606 +00:00 [INFO] plugin:K4-Zenith | Core Module K4-Zenith-Ranks requested config accessor.
-2026-01-19 22:14:20.614 +00:00 [INFO] plugin:K4-Zenith | Core Module K4-Zenith-Stats requested config accessor.
-2026-01-19 22:14:20.694 +00:00 [INFO] plugin:K4-Zenith | Core Module K4-Zenith-Toplists requested config accessor.
-2026-01-19 22:14:33.344 +00:00 [INFO] plugin:K4-Zenith | Core Forcing low priority to: SharpTimer
