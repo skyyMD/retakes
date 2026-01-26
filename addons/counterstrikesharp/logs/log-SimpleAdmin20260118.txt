@@ -1,2 +1,0 @@
-2026-01-18 21:43:51.314 +00:00 [INFO] plugin:SimpleAdmin Database initialized successfully.
-2026-01-18 22:32:29.932 +00:00 [INFO] plugin:SimpleAdmin Database initialized successfully.

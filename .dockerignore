@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow game folder
+!game/
+!game/**
+
+# Allow docker-compose files
+!docker-compose.yml
+!docker-compose*.yml
+
+# Allow pre.sh script
+!pre.sh

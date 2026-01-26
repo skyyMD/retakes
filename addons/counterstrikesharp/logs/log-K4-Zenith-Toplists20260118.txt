@@ -1,2 +1,0 @@
-2026-01-18 21:43:51.995 +00:00 [INFO] plugin:K4-Zenith | Toplists Zenith Toplists module successfully registered.
-2026-01-18 22:32:30.633 +00:00 [INFO] plugin:K4-Zenith | Toplists Zenith Toplists module successfully registered.
