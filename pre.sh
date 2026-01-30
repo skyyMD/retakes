@@ -1,32 +1,33 @@
 #!/bin/bash
 set -e
 
-SEED_DIR="/home/steam/cs2-seed/csgo"
-GAME_DIR="/home/steam/cs2-dedicated/game/csgo"
+SEED="/home/steam/cs2-seed/csgo"
+GAME="/home/steam/cs2-dedicated/game/csgo"
 
-echo "[pre.sh] Starting mod seeding process..."
+echo "[pre.sh] Starting mod seeding..."
 
-if [ ! -d "$SEED_DIR" ]; then
-    echo "[pre.sh] Seed dir not found, skipping"
-    exit 0
+mkdir -p "$GAME"
+
+# addons
+if [ -d "$SEED/addons" ]; then
+  echo "[pre.sh] Copying addons..."
+  cp -a "$SEED/addons" "$GAME/"
 fi
 
-echo "[pre.sh] Seeding addons..."
-if [ -d "$SEED_DIR/addons" ]; then
-    mkdir -p "$GAME_DIR/addons"
-    cp -a "$SEED_DIR/addons/." "$GAME_DIR/addons/"
+# cfg
+if [ -d "$SEED/cfg" ]; then
+  echo "[pre.sh] Copying cfg..."
+  cp -a "$SEED/cfg" "$GAME/"
 fi
 
-echo "[pre.sh] Seeding cfg..."
-if [ -d "$SEED_DIR/cfg" ]; then
-    mkdir -p "$GAME_DIR/cfg"
-    cp -a "$SEED_DIR/cfg/." "$GAME_DIR/cfg/"
+# gameinfo.gi
+if [ -f "$SEED/gameinfo.gi" ]; then
+  echo "[pre.sh] Copying gameinfo.gi..."
+  cp -f "$SEED/gameinfo.gi" "$GAME/gameinfo.gi"
 fi
 
-echo "[pre.sh] Seeding gameinfo.gi..."
-if [ -f "$SEED_DIR/gameinfo.gi" ]; then
-    cp -f "$SEED_DIR/gameinfo.gi" "$GAME_DIR/gameinfo.gi"
-fi
+# CRLF fix
+echo "[pre.sh] Normalizing line endings..."
+find "$GAME" -type f -exec sed -i 's/\r$//' {} +
 
-echo "[pre.sh] Mod seeding finished"
-exit 0
+echo "[pre.sh] Mod seeding done."
