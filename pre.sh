@@ -28,6 +28,8 @@ fi
 
 # CRLF fix
 echo "[pre.sh] Normalizing line endings..."
-find "$GAME" -type f -exec sed -i 's/\r$//' {} +
+find "$GAME" -type f \
+  \( -name "*.cfg" -o -name "*.txt" -o -name "*.ini" -o -name "*.vdf" -o -name "*.json" \) \
+  -exec sed -i 's/\r$//' {} \; || true
 
 echo "[pre.sh] Mod seeding done."
