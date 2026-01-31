@@ -1,4 +1,5 @@
 "Plugin"
 {
-	"file"	"addons/metamod/bin/linuxsteamrt64/server"
+	"file"	"addons/metamod/bin/server"
 }
+
